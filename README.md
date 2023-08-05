@@ -8,7 +8,9 @@ This project has provided me with a profound comprehension of the intricacies in
 For those curious about the tools involved, here are the technologies spotlighted in this journey:
 
 SQL: The cornerstone of database analysis.
+
 Python: Empowering data preprocessing for utmost efficiency.
+
 Pandas: A tool to efficiently handle and analyze data.
 
 Feel free to explore the repository and engage with these technologies firsthand. If you have any queries or insights to share, don't hesitate to connect. Here's to embracing the art of database exploration and technological collaboration! 🚀
